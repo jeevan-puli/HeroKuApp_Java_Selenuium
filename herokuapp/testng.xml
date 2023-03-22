@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="herokuapp.QaTest.FileDownloadTests"/>
+      <class name="herokuapp.QaTest.DynamicLoadingTests"/>
+      <class name="herokuapp.QaTest.DynamicControlsPageTests"/>
+      <class name="herokuapp.QaTest.DynamicContentTests"/>
+      <class name="herokuapp.QaTest.DropDownPageTests"/>
+      <class name="herokuapp.QaTest.DragAndDropPageTests"/>
+      <class name="herokuapp.QaTest.ContextMenuPageTests"/>
+      <class name="herokuapp.QaTest.FileUploadTest"/>
+      <class name="herokuapp.QaTest.FileDownloadTests"/>
+      <class name="herokuapp.QaTest.FloatingMenuTests"/>
+      <class name="herokuapp.QaTest.IFramesPageTests"/>
+      <class name="herokuapp.QaTest.JavaScriptAlertsPageTests"/>
+      <class name="herokuapp.QaTest.JavaScriptErrrorPageTests"/>
+      <class name="herokuapp.QaTest.LoginPageTests"/>
+      <class name="herokuapp.QaTest.MouseHoverPageTests"/>
+      <class name="herokuapp.QaTest.MultiWindowsPageTests"/>
+      <class name="herokuapp.QaTest.NotificationMessagePageTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
